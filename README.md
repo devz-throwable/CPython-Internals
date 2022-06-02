@@ -94,3 +94,5 @@ I will only recommend what I've read
 * [YET ANOTHER PYTHON INTERNALS BLOG(blog/eng)](https://pythoninternal.wordpress.com/)
 * [Junnplus(blog/cn)](https://github.com/Junnplus/blog/issues)
 * [manjusaka(blog/cn)](https://manjusaka.itscoder.com/)
+
+update 
